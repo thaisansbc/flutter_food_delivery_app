@@ -92,3 +92,16 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  fonts:
+    - family: Kantumruy Pro
+      fonts:
+        - asset: assets/fonts/Kantumruy/KantumruyPro-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Kantumruy/KantumruyPro-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Kantumruy/KantumruyPro-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Kantumruy/KantumruyPro-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Kantumruy/KantumruyPro-Bold.ttf
+          weight: 700
